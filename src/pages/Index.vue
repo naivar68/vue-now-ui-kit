@@ -3,14 +3,14 @@
     <div class="page-header clear-filter" filter-color="orange">
       <parallax
         class="page-header-image"
-        style="background-image:url('img/header.jpg')"
+        style="background-image:url('img/bg0.jpg')"
       >
       </parallax>
       <div class="container">
         <div class="content-center brand">
-          <img class="n-logo" src="img/now-logo.png" alt="" />
-          <h1 class="h1-seo">Now UI Kit.</h1>
-          <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+          <img class="n-logo" src="img/logo.png" alt="TDP Videocast Logo" />
+          <h1 class="h1-seo">Welcome to The TDP Videocast!</h1>
+          <h3>Subscribe today</h3>
         </div>
         <h6 class="category category-absolute">
           Designed by
