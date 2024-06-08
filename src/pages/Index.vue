@@ -8,7 +8,7 @@
       </parallax>
       <div class="container">
         <div class="content-center brand">
-          <img class="n-logo" src="img/logo.png" alt="TDP Videocast Logo" />
+          <img class="n-logo" src="/public/img/login.jpg" alt="TDP Videocast Logo" />
           <h1 class="h1-seo">Welcome to The TDP Videocast!</h1>
           <h3>Subscribe today</h3>
         </div>
